@@ -1,0 +1,16 @@
+{
+	"complete": false,
+	"min_section_size_ok": false,
+	"id": "1c4562..",
+	"total_count": 12,
+	"debug_estimate_count": "false - false - 12 - 24",
+	"initial": "000, 001, 010, 100",
+	"requested": "011, 0110, 01100, 01101, 0111, 01110, 01111, 101, 1010, 10100, 10101, 1011, 10110, 10111, 11, 110, 1100, 11000, 11001, 1101, 11010, 11011, 111, 1110, 11100, 11101, 1111, 11110, 11111",
+	"seconds": 0,
+	"prefixes": [
+		{ "prefix": "000", "type": "Ours", "count": 5, "ids":  [ "0aa5f91f", "109fd352", "1628003d", "1c456210", "1ff02878" ] },
+		{ "prefix": "001", "type": "Neighbour", "count": 1, "ids":  [ "390f83dc" ] },
+		{ "prefix": "010", "type": "Neighbour", "count": 1, "ids":  [ "434657b4" ] },
+		{ "prefix": "100", "type": "Neighbour", "count": 5, "ids":  [ "8006cb83", "82dbcd70", "8361ba95", "92809aa4", "99e54672" ] }
+	]
+}

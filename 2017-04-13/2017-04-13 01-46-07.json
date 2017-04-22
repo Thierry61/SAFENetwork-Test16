@@ -1,0 +1,21 @@
+{
+	"complete": true,
+	"min_section_size_ok": true,
+	"id": "1c4562..",
+	"total_count": 134,
+	"debug_estimate_count": "true - true - 134 - 138",
+	"initial": "000, 001, 010, 100",
+	"requested": "0000, 0001, 0010, 0011, 0100, 0101, 011, 0110, 0111, 1000, 1001, 101, 1010, 1011, 11, 110, 1100, 1101, 111",
+	"seconds": 0,
+	"prefixes": [
+		{ "prefix": "000", "type": "Requested", "count": 19, "ids":  [ "031afb16", "0349ce0d", "037a1c33", "0aa5f91f", "109fd352", "1389f9dd", "13b6ac5a", "15024bb3", "15c2a6a8", "15dbb7d8", "1628003d", "16462960", "176f66f4", "1860f0c9", "18b2200f", "19958700", "1c456210", "1f4822d6", "1f74d71b" ] },
+		{ "prefix": "001", "type": "Requested", "count": 16, "ids":  [ "2191a484", "23af7d56", "2412c455", "25758824", "25f31016", "26236f33", "2aab8cf7", "2acb0098", "2b71f370", "2cb5ae1c", "2e2cbef9", "38c076fd", "390f83dc", "3a40cb28", "3a7401e2", "3d529225" ] },
+		{ "prefix": "010", "type": "Requested", "count": 14, "ids":  [ "42b8192d", "434657b4", "46170d19", "4c1924f4", "4ea5e3c6", "4f96d993", "508a52bb", "510b667d", "5431d41b", "58e19ce6", "5a496955", "5ae44d76", "5b5395e6", "5ea309f6" ] },
+		{ "prefix": "011", "type": "Requested", "count": 18, "ids":  [ "63f793b8", "64ccc321", "67de53ec", "683d90fb", "68f3094e", "69178c34", "71cd3e9d", "73ad75c9", "741a55f9", "7498a87c", "768da04c", "7787fca6", "7850b256", "785f1c39", "7a9aad1e", "7bbc45ee", "7c981be6", "7d553a1a" ] },
+		{ "prefix": "100", "type": "Requested", "count": 20, "ids":  [ "8006cb83", "82dbcd70", "8361ba95", "85653fc8", "8845815c", "8d33c34a", "8fbee5ab", "91fcc31d", "92809aa4", "953db295", "96163482", "962c0587", "97a47af7", "98913aa9", "99a145cb", "9c645368", "9caed187", "9d458ef2", "9d4f6e3c", "9edf424e" ] },
+		{ "prefix": "1010", "type": "Requested", "count": 10, "ids":  [ "a29ca49c", "a29d3648", "a48e0487", "a6dc0e37", "a85d1a57", "a965d8fb", "aa71a89a", "ab0ffa1f", "acbdf94c", "ae110b65" ] },
+		{ "prefix": "1011", "type": "Requested", "count": 12, "ids":  [ "b0ec47c6", "b1e18f07", "b277691f", "b44ebe31", "b64fdc04", "b9a0c6ee", "b9fcf1e6", "ba4bd573", "bb6428c1", "bb922f2b", "bba685d9", "be83b301" ] },
+		{ "prefix": "110", "type": "Requested", "count": 14, "ids":  [ "c96481e3", "cbbeae75", "cc691f50", "ce06133e", "ceb59e3e", "d119cef9", "d334a208", "d4713c8b", "d6680c16", "d7abc2b2", "d7fb5a60", "d860bc2c", "dab37144", "dc077a6a" ] },
+		{ "prefix": "111", "type": "Requested", "count": 11, "ids":  [ "e0d7e8ce", "e1e70014", "e3c9b310", "e81bdbe7", "ece400b2", "efac0de6", "f6709274", "f99da0c2", "f9bebb33", "fbb01661", "feddfc4f" ] }
+	]
+}
